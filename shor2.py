@@ -5,7 +5,7 @@ import math
 import random
 from qiskit.circuit.library import QFT
 
-#QiskitRuntimeService.save_account(channel="ibm_quantum", token="ce86c729e968c408536dbcbc12a10c6c653fc08436381379d6b03b3ba99cead56b4c1b8a5716f104d2975c2412b7270024ba85f29634bdfafe3c2bf2688040fa")
+#QiskitRuntimeService.save_account(channel="ibm_quantum", token="<insert token here>")
 #service = QiskitRuntimeService()
 
 service = QiskitRuntimeService()
